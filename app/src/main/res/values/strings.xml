@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Mis Remedios</string>
+    <string name="title_activity_add" translatable="true">Agregar alarma</string>
+
+    <!-- Main Activity -->
+    <string name="main_title" translatable="true">Alarmas</string>
+
+    <!-- About menu -->
+    <string name="action_about" translatable="true">About</string>
+    <string name="action_drugs" translatable="true">Lista de remedios</string>
+    <string name="about_title" translatable="true">Mis Remedios</string>
+    <string name="about_message" translatable="true">
+        "Esta aplicación le ayudará a recordar los medicamentos que debe tomar por medio de la creación de alarmas"
+    </string>
+
+    <!-- Add Alarm -->
+    <string name="alarm_check_box_repeatable" translatable="true">¿Volver a sonar en 2 minutos? </string>
+    <string name="alarm_description_hint" translatable="true">Descripción de la alarma</string>
+    <string name="alarm_melody_selector" translatable="true">Elige una melodía</string>
+
+    <!-- Add Alarm - Day of week-->
+    <string name="check_box_monday" translatable="true">L</string>
+    <string name="check_box_tuesday" translatable="true">M</string>
+    <string name="check_box_wednesday" translatable="true">M</string>
+    <string name="check_box_thursday" translatable="true">J</string>
+    <string name="check_box_friday" translatable="true">V</string>
+    <string name="check_box_saturday" translatable="true">S</string>
+    <string name="check_box_sunday" translatable="true">D</string>
+
+    <!-- Add Alarm -->
+    <string name="save_option" translatable="true">Guardar</string>
+    <string name="cancel_option" translatable="true">Cancelar</string>
+
+
+    <!-- Options -->
+    <string name="yes" translatable="true">Si</string>
+    <string name="no" translatable="true">No</string>
+
+    <string name="title_activity_add_alarm">Agregar</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string name="alarm_detail_comment_dummy">Al momento de crear esta alarma, no se ingresó un comentario</string>
+
+
+    <!-- dev mode-->
+    <string name="action_test">Notificar (dev mode)</string>
+    <string name="test_title">DEV MODE</string>
+    <string name="test_message">
+        "En modo desarrollo, esta opcion permite simular una notidicacíon de alarma, ¿desea similar una notificación?"
+    </string>
+    <string name="title_activity_alarm_detail">Alarma</string>
+
+    <!-- dev mode-->
+
+</resources>

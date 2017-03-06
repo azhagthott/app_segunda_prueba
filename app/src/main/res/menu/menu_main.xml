@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.fbarrios.dev.remedios.view.activity.MainActivity">
+
+    <item
+        android:id="@+id/action_drug"
+        android:icon="@drawable/ic_list_white_24"
+        android:orderInCategory="100"
+        android:title="@string/action_drugs"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="100"
+        android:title="@string/action_about"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_test"
+        android:orderInCategory="100"
+        android:title="@string/action_test"
+        app:showAsAction="never" />
+
+</menu>
